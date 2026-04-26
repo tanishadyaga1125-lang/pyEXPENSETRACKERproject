@@ -53,7 +53,7 @@ A simple command-line Expense Tracker built using Python. It lets you add, view,
    ```
 3. Run the file:
    ```
-   python expense_tracker.py
+   python expense.py
    ```
 
 ---
