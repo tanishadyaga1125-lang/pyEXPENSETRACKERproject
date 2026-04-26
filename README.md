@@ -5,7 +5,7 @@ A simple command-line Expense Tracker built using Python. It lets you add, view,
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | File | Description |
 |------|-------------|
@@ -14,7 +14,7 @@ A simple command-line Expense Tracker built using Python. It lets you add, view,
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - Python 3
 - JSON (for local data storage)
@@ -23,7 +23,7 @@ A simple command-line Expense Tracker built using Python. It lets you add, view,
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - **Add Expense** — Enter an amount and category (e.g. Food, Travel) and it gets saved
 - **View Expenses** — Displays all recorded expenses with amount and category
@@ -33,7 +33,7 @@ A simple command-line Expense Tracker built using Python. It lets you add, view,
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. Run the program — a menu appears with 5 options
 2. Choose **Add Expense** to log a new entry with amount and category
@@ -44,7 +44,7 @@ A simple command-line Expense Tracker built using Python. It lets you add, view,
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Make sure Python 3 is installed
 2. Install matplotlib if not already installed:
@@ -58,7 +58,7 @@ A simple command-line Expense Tracker built using Python. It lets you add, view,
 
 ---
 
-## 👩‍💻 Developed By
+##  Developed By
 
 Tanisha Dyaga — Diploma in Computer Engineering
   
